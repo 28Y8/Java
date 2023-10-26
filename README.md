@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <title>🐍 Python Code Repository</title>
-</head>
 <body>
   <h1>Welcome to My 🐍 Python Code Repository</h1>
   <p>This repository contains a collection of code examples, coding practices, and projects related to 🐍 Python. Please note that the code provided here is primarily for educational and demonstrative purposes.</p>
